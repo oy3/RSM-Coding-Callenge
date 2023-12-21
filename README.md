@@ -15,13 +15,13 @@ These instructions will help you set up and run the MSR Office Management System
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/msr-office-management.git
+   git clone https://github.com/oy3/rsm-coding-challenge.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd msr-office-management
+   cd rsm-coding-challenge
    ```
 
 3. Install dependencies:
